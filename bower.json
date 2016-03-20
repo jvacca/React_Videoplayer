@@ -1,0 +1,23 @@
+{
+  "name": "Continuity",
+  "version": "0.0.0",
+  "description": "personal portfolio",
+  "main": "app.js",
+  "keywords": [
+    "framework"
+  ],
+  "authors": [
+    "John Vacca"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "react": "~0.14.1"
+  }
+}
